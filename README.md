@@ -22,7 +22,11 @@ A React and TypeScript-based application with state management, i18n support, an
     yarn install
 
 3. **Development**
-    To create a production-ready build:
+    To start a development server with hot reloading:
+    ```bash
+    npm run dev
+    # or
+    yarn dev
 
 4. **Build for Production**
     ```bash
