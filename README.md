@@ -16,6 +16,7 @@ A React and TypeScript-based application with state management, i18n support, an
    cd academic-bridge-app
 
 2. **Install Dependencies**
+    ```bash
     npm install
     # or
     yarn install
@@ -24,6 +25,7 @@ A React and TypeScript-based application with state management, i18n support, an
     To create a production-ready build:
 
 4. **Build for Production**
+    ```bash
     npm run build
     # or
     yarn build
@@ -35,7 +37,7 @@ A React and TypeScript-based application with state management, i18n support, an
     This project uses Jest and Testing Library for component testing.
 
     # Running Tests
-
+    ```bash
     npm run test
     # or
     yarn test
