@@ -1,4 +1,4 @@
-# Academic Bridge App
+# Academic Bridge Assessment App
 
 A React and TypeScript-based application with state management, i18n support, and testing setup. This project uses Vite for development, Jest for testing, and ESLint for linting.
 
