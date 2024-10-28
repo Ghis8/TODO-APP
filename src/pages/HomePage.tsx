@@ -172,7 +172,7 @@ function HomePage() {
                         userId:5
                     })}
                     close={()=>setNewTask(false)}
-                    className="w-[80%] h-[30%] md:w-[500px] md:h-[300px] p-5 z-50 fixed top-[40%] left-[10%] md:top-56 md:left-[30%] bg-gray-200 shadow-lg rounded-md"
+                    className="w-[80%] h-[35%] md:w-[500px] md:h-[300px] p-5 z-50 fixed top-[40%] left-[10%] md:top-56 md:left-[30%] bg-gray-200 shadow-lg rounded-md"
                 />
             }
             {
@@ -192,7 +192,7 @@ function HomePage() {
                         }})
                     }}
                     loading={editTaskIsLoading}
-                    className="w-[80%] h-[30%] md:w-[500px] md:h-[300px] p-5 z-50 fixed top-[40%] left-[10%] md:top-56 md:left-[30%] bg-gray-200 shadow-lg rounded-md"
+                    className="w-[80%] h-[35%] md:w-[500px] md:h-[300px] p-5 z-50 fixed top-[40%] left-[10%] md:top-56 md:left-[30%] bg-gray-200 shadow-lg rounded-md"
                 />
             }
             <div className={`sticky top-0 z-30 bg-gray-200 p-5 rounded-b-md`}>
